@@ -1,4 +1,4 @@
 # Pairwork
 
 badge getting.
-6
+7
